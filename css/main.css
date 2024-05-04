@@ -202,7 +202,7 @@ a.button {
   line-height: 1;
   padding: 0.75rem 2rem;
   border-radius: 4px;
-  font-size: 0.9375rem;
+  font-size: 0.9575rem;
   user-select: none;
 }
 a.button.theme {
@@ -953,7 +953,7 @@ h6 {
   font-size: calc(var(--fsp) + 0px);
 }
 .fs15 {
-  --fsp: 0.9375rem;
+  --fsp: 0.9575rem;
   font-size: var(--fsp);
 }
 .fs14 {
@@ -1861,7 +1861,7 @@ article.md-text.content+.related-wrap {
   padding: 2px 6px;
   background: none;
   line-height: 1.5;
-  font-size: 0.9375rem;
+  font-size: 0.9575rem;
   text-shadow: 0 0 1px rgba(0,0,0,0.12);
 }
 .banner .content .top .tag-plugin.navbar .link+.link {
@@ -2038,7 +2038,7 @@ a.tag-plugin.button:hover {
 .md-text .tag-plugin.checkbox {
   display: flex;
   align-items: center;
-  font-size: 0.9375rem;
+  font-size: 0.9575rem;
   line-height: 1.2;
   --gap-p: calc(var(--gap-p-compact) / 2);
 /* Checkbox */
@@ -3377,7 +3377,7 @@ p>strong>span.tag-plugin.icon {
   line-height: 1.5;
 }
 .md-text .tag-plugin.okr .o .title {
-  font-size: 0.9375rem;
+  font-size: 0.9575rem;
 }
 .md-text .tag-plugin.okr .o .note {
   font-size: 0.875rem;
@@ -4118,7 +4118,7 @@ p>strong>span.tag-plugin.icon {
 }
 .tag-plugin.timeline .body h5,
 .tag-plugin.timeline .body h6 {
-  font-size: 0.9375rem;
+  font-size: 0.9575rem;
   margin: 0.5rem 0;
   line-height: 1.2;
 }
@@ -4356,7 +4356,7 @@ details.toc[open] >div.body section .header+.doc_tree {
   width: 100%;
   min-height: 40px;
   border-radius: 8px;
-  font-size: 0.9375rem;
+  font-size: 0.9575rem;
   font-weight: 500;
   color: var(--text-p3);
   text-align: center;
@@ -4518,7 +4518,7 @@ details.toc[open] >div.body section .header+.doc_tree {
 .search-wrapper #search-result .search-result-title {
   color: var(--text-p1);
   font-weight: 700;
-  font-size: 0.9375rem;
+  font-size: 0.9575rem;
 }
 .search-wrapper #search-result .search-result-content {
   overflow: hidden;
