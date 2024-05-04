@@ -3,7 +3,8 @@
 /*color: #ff0000;  设置选中文本颜色 */
 }
 .l_body.tech p {
-  line-height: 1.8;
+  line-height: 1.6;
+  margin-bottom: 1.8em;
 }
 :root {
   --width-main: 720px;
