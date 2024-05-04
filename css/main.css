@@ -2,6 +2,9 @@
   background: #fff8dc; /* 设置选中文本的背景色 */
 /*color: #ff0000;  设置选中文本颜色 */
 }
+.l_body.tech p {
+  line-height: 1.8;
+}
 :root {
   --width-main: 720px;
   --fsp: 15px;
