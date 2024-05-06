@@ -6,6 +6,12 @@
   line-height: 1.6;
   margin-bottom: 1.8em;
 }
+@font-face {
+  font-family: 'siyuanregular';
+  src: url("/font/siyuanregular.otf");
+  font-weight: normal;
+  font-style: normal;
+}
 :root {
   --width-main: 720px;
   --fsp: 15px;
@@ -786,7 +792,7 @@ table:not([class]) {
   outline: none;
 }
 html {
-  font-family: system-ui, "Microsoft Yahei", "Segoe UI", -apple-system, Roboto, Ubuntu, "Helvetica Neue", Arial, "WenQuanYi Micro Hei", sans-serif;
+  font-family: "siyuanregular", system-ui, "Microsoft Yahei", "Segoe UI", -apple-system, Roboto, Ubuntu, "Helvetica Neue", Arial, "WenQuanYi Micro Hei", sans-serif;
   font-size: 16px;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -4437,7 +4443,7 @@ details.toc[open] >div.body section .header+.doc_tree {
 .search-wrapper .search-input {
   width: 100%;
   box-sizing: border-box;
-  font-family: system-ui, "Microsoft Yahei", "Segoe UI", -apple-system, Roboto, Ubuntu, "Helvetica Neue", Arial, "WenQuanYi Micro Hei", sans-serif;
+  font-family: "siyuanregular", system-ui, "Microsoft Yahei", "Segoe UI", -apple-system, Roboto, Ubuntu, "Helvetica Neue", Arial, "WenQuanYi Micro Hei", sans-serif;
   font-size: 0.875rem;
   padding: 12px 0;
   color: var(--text);
