@@ -1,5 +1,5 @@
 ::selection {
-  background: #fdf9d8; /* 设置选中文本的背景色 */
+  background: #fcf6c0; /* 设置选中文本的背景色 */
 /*color: #ff0000;  设置选中文本颜色 */
 }
 .l_body.tech p {
@@ -67,11 +67,11 @@
     --alpha75: rgba(255,255,255,0.75);
     --alpha100: #fff;
     --text: #000;
-    --text-p1: #333;
-    --text-p2: #4d4d4d;
-    --text-p3: #808080;
-    --text-p4: #999;
-    --text-meta: #ccc;
+    --text-p1: #1a1a1a;
+    --text-p2: #262626;
+    --text-p3: #404040;
+    --text-p4: #4d4d4d;
+    --text-meta: #666;
     --text-code: #14181f;
   }
 }
@@ -90,11 +90,11 @@
     --alpha75: rgba(0,0,0,0.75);
     --alpha100: #000;
     --text: #fff;
-    --text-p1: #ccc;
-    --text-p2: #b3b3b3;
-    --text-p3: #858585;
-    --text-p4: #707070;
-    --text-meta: #4d4d4d;
+    --text-p1: #e6e6e6;
+    --text-p2: #d9d9d9;
+    --text-p3: #c2c2c2;
+    --text-p4: #b8b8b8;
+    --text-meta: #a6a6a6;
     --text-code: #fff;
   }
 }
@@ -162,7 +162,7 @@ table:not([class]) tr:hover {
   background: var(--block);
 }
 *[ff=title] {
-  font-family: system-ui, "Microsoft Yahei", "Segoe UI", -apple-system, Roboto, Ubuntu, "Helvetica Neue", Arial, "WenQuanYi Micro Hei", sans-serif;
+  font-family: "Noto Serif SC", system-ui, "Microsoft Yahei", "Segoe UI", -apple-system, Roboto, Ubuntu, "Helvetica Neue", Arial, "WenQuanYi Micro Hei", sans-serif;
 }
 blockquote {
   display: block;
